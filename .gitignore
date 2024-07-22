@@ -1,0 +1,7 @@
+# Ignore node.js dependencies
+node_modules/
+
+# Ignore environment files
+.env
+
+appseed.js
