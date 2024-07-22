@@ -1,8 +1,4 @@
-{
-  "engines": {
-    "node": "18.13.0"
-  },
-}
+
 {
   "dependencies": {
     "@maptiler/sdk": "^2.2.1",
